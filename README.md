@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unpatel1
+- 👋 Hi, I’m Umesh Patel.
 - 👀 I’m interested in Data Science & Data Analysis, Photography & Astronomy.
 - 🌱 I’m currently learning Data Analysis.
 - 💞️ I’m looking to collaborate on ...
