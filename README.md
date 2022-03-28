@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umesh Patel.
 - 👀 I’m interested in Data Science & Data Analytics, Photography, Astronomy, ...
-- 🌱 I’m currently looking for an entry level job in the Data Analytics.
+- 🌱 I’m currently looking for an entry level job in the field of Data Analytics.
 - 📫 How to reach me: unpatel@yahoo.com
 
 <!---
